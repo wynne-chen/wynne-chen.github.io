@@ -1,13 +1,16 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Wynne Chen # your name (or website title) here
+logo: "/images/cyw-profile-whitebg-circle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist and martial artist with experience working with computer vision and deep learning. I went through the Data Science Intensive 
+  at General Assembly Singapore and did well enough to be recalled as an Instructional Associate. I worked with Python and visual programming software
+  for over 5 years in my previous role, and am a confident public speaker and narrative crafter due to years of debate coaching.
   <br><br>
-  Second description 
+  
+  I'm interested in the application of computer vision to digital fitness, healthcare, and workplace safety. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/wynne-c/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-19ZJ5TG31K # your Google Analytics tracking ID here
