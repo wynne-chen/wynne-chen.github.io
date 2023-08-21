@@ -13,9 +13,7 @@ Eventually, I hope to scale it up to include all the basic moves in both orthodo
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-#---
-#[Project 2 Title](/pdf/sample_presentation.pdf)
-#<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
