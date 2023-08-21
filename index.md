@@ -40,7 +40,7 @@ In this project, we studied extremely fragmented, granular datasets from the cit
 <img src="images/Screenshot 2023-08-21 at 11.31.23 AM.png?raw=true"/>
 <img src="images/Screenshot 2023-08-21 at 11.42.37 AM.png?raw=true"/>
 
-#### HDB Price Predictors
+#### HDB Price Predictor
 [Link to Streamlit](https://hdb-price-predictor.streamlit.app/)
 
 Making use of linear regression, ridge, and lasso models trained on a dataset of resale public flats (HDB) from the SG government, my group built a price predictor model with an R2 of 0.90. Users can check an interactive map or fill up a short form to receive a predicted price for their flat. We specifically built our model with the end product in mind--as such, we refined the model to the point that we only used features that our users would likely be able to answer, while maintaining a reasonably high model accuracy. 
