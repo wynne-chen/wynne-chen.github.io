@@ -35,7 +35,7 @@ To challenge ourselves, we chose two highly similar communities on Reddit: the k
 #### West Nile Virus Prediction
 [Link to Streamlit](https://west-nile-virus-prediction.streamlit.app/)
 
-In this project, we studied extremely fragmented, granular datasets from the city of Chicago relating to the West Nile Virus epidemic from 2010-2014. Using SMOTEomek to rebalance our dataset, we ran through 7 different models with hypertuning before we settled on an XGBoost model which hit an ROC-AUC of 0.88. Our final deployed product allows users to look at different areas in Chicago to evaluate the relative risk of WNV. 
+In this project, we studied extremely fragmented, granular datasets from the city of Chicago relating to the West Nile Virus epidemic from 2010-2014. Using SMOTETomek to rebalance our dataset, we ran through 7 different models with hypertuning before we settled on an XGBoost model which hit an ROC-AUC of 0.88. Our final deployed product allows users to look at different areas in Chicago to evaluate the relative risk of WNV. 
 
 <img src="images/Screenshot 2023-08-21 at 11.31.23 AM.png?raw=true"/>
 <img src="images/Screenshot 2023-08-21 at 11.42.37 AM.png?raw=true"/>
