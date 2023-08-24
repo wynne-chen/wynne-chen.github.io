@@ -11,7 +11,7 @@ Inspired by my own hobby and the difficulties of training alone over COVID, I bu
 
 Eventually, I hope to scale it up to include all the basic moves in both orthodox and southpaw stances (jabs, crosses, hooks, uppercuts, elbows, teeps, roundhouse kicks, knees). 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/demo_clip.gif?raw=true"/>
 
 
 
