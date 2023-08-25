@@ -5,7 +5,7 @@
 ## Computer Vision 	💻
 
 ### Muay Th.AI Trainer
-[Link to Github](https://github.com/wynne-chen/DSI-37-Capstone)
+[Link to trailer](https://youtu.be/-IE-1zgkS1g)
 
 Inspired by my own hobby and the difficulties of training alone over COVID, I built a first-of-its-kind recommender app. Making use of MoveNet and machine learning methods and a data set entirely created by myself, this fitness buddy app can distinguish between two moves (a jab and a roundhouse kick) with an ROC-AUC of 1.0, count the number of reps, and give live posture advice. 
 
