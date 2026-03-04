@@ -4,6 +4,18 @@
 
 ## Computer Vision 	💻
 
+### Chisel
+[Chisel](https://staging.chisel.swiftoffice.org/)
+
+Chisel is a mission planning aid tool for UAV pilots. Users log in with Singpass and search for target areas using coordinates, then create reports using our in-house segmentation model service. 
+
+<video controls width="600">
+    <source src="images/CHISEL.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+<img src="images/chisel_sample.jpg"/>
+
 ### Muay Th.AI Trainer
 [Link to trailer](https://youtu.be/-IE-1zgkS1g)
 
