@@ -9,7 +9,7 @@
 
 Chisel is a mission planning aid tool for UAV pilots. Users log in with Singpass and search for target areas using coordinates, then create reports using our in-house segmentation model service. 
 
-<video controls width="600">
+<video controls width="500">
     <source src="images/CHISEL.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
